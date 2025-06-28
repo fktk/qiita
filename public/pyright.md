@@ -5,8 +5,8 @@ tags:
   - neovim
   - pyright
   - nvim-lsp
-private: true
-updated_at: '2024-12-22T21:18:49+09:00'
+private: false
+updated_at: '2025-01-02T23:46:44+09:00'
 id: 4e65fcb7cb116065c6aa
 organization_url_name: null
 slide: false
